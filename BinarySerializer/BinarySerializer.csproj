@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
   <PropertyGroup>
-    <TargetFramework>netstandard1.3</TargetFramework>
+    <TargetFramework>net462</TargetFramework>
     <Description>A declarative serialization framework for controlling formatting of data using field bindings.</Description>
     <AssemblyName>BinarySerializer</AssemblyName>
     <PackageTags>Serialization;Serializer;Binary;Format;Protocol</PackageTags>
