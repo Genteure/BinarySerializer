@@ -1,6 +1,12 @@
 BinarySerializer
 ================
 
+This is a fork of the original BinarySerializer that use .NET Framework 4.6.2 instead of .NET Standard 1.3, for easy use inside Unity.
+
+This fork will not always up to date with the original version, use the [original one](https://github.com/jefffhaynes/BinarySerializer) instead.
+
+----------------
+
 A .NET declarative serialization framework for controlling formatting of data at the byte and bit level, BinarySerializer is designed to make working with formats and protocols fast and simple using types, bindings, converters, and code.  The .NET Standard Library is available on [nuget](https://www.nuget.org/packages/BinarySerializer).  The [Portable Class Library](https://www.nuget.org/packages/BinarySerializer/6.0.3) is still available but no longer maintained.
 
 ### Field Ordering ###
